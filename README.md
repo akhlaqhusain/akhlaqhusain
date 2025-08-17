@@ -1,4 +1,4 @@
 - Hi, I'm Akhlaq Husain.
 - I’m interested in: Competitive Programming and Web Development.
-- I'm currently in my first year.
+- I'm currently in my second year.
 - I'm currently learning Web Development and DSA.
